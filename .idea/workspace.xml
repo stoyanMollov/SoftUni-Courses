@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49c4a4a1-2bf6-4802-a749-2f3c247f1692" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/BasicSyntaxContionalStaments/BackIn30Minutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments/BackIn30Minutes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/BasicSyntaxContionalStaments/DivisibleBy3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments/DivisibleBy3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/BasicSyntaxContionalStaments/EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments/EvenNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/BasicSyntaxContionalStaments/ForeignLanguages.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments/ForeignLanguages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/BasicSyntaxContionalStaments/MonthPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments/MonthPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/BasicSyntaxContionalStaments/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/BasicSyntaxContionalStaments/MultiplicationTable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments/MultiplicationTable2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/BasicSyntaxContionalStaments/Pass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments/Pass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/BasicSyntaxContionalStaments/PassedOrFailed.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments/PassedOrFailed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/BasicSyntaxContionalStaments/RefactorSumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments/RefactorSumOfOddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/BasicSyntaxContionalStaments/StudentInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments/StudentInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/BasicSyntaxContionalStaments/SumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments/SumOfOddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/BasicSyntaxContionalStaments/TheatrePromotions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments/TheatrePromotions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/ExerciseBasicSyntaxConditionalStatementsAndLoops/Ages.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/ExerciseBasicSyntaxConditionalStatementsAndLoops/Ages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/ExerciseBasicSyntaxConditionalStatementsAndLoops/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/ExerciseBasicSyntaxConditionalStatementsAndLoops/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/ExerciseBasicSyntaxConditionalStatementsAndLoops/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/ExerciseBasicSyntaxConditionalStatementsAndLoops/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/ExerciseBasicSyntaxConditionalStatementsAndLoops/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/ExerciseBasicSyntaxConditionalStatementsAndLoops/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/ExerciseBasicSyntaxConditionalStatementsAndLoops/Orders_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/ExerciseBasicSyntaxConditionalStatementsAndLoops/Orders_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/ExerciseBasicSyntaxConditionalStatementsAndLoops/PadawanEqupment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/ExerciseBasicSyntaxConditionalStatementsAndLoops/PadawanEqupment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/ExerciseBasicSyntaxConditionalStatementsAndLoops/PrintAndSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/ExerciseBasicSyntaxConditionalStatementsAndLoops/PrintAndSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/ExerciseBasicSyntaxConditionalStatementsAndLoops/RangeExpenses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/ExerciseBasicSyntaxConditionalStatementsAndLoops/RangeExpenses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/ExerciseBasicSyntaxConditionalStatementsAndLoops/StrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/ExerciseBasicSyntaxConditionalStatementsAndLoops/StrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/ExerciseBasicSyntaxConditionalStatementsAndLoops/Vacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/ExerciseBasicSyntaxConditionalStatementsAndLoops/Vacation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/ExerciseBasicSyntaxConditionalStatementsAndLoops/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/ExerciseBasicSyntaxConditionalStatementsAndLoops/VendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/MoreExersize/EnglishNameOfLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/MoreExersize/EnglishNameOfLastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/MoreExersize/GameStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/MoreExersize/GameStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/MoreExersize/SortNumbers_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/MoreExersize/SortNumbers_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_September_2022/MoreExersize/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/MoreExersize/demo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F6fdnp2KElgUEkCMH3CeY0kTpF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mollo\OneDrive\Documents\GitHubM\SoftUni-Courses\Java_September_2022\05_BASIC_SYTAXYS_AND_CONDITIONS" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49c4a4a1-2bf6-4802-a749-2f3c247f1692" name="Changes" comment="" />
+      <created>1663817549576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663817549576</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
