@@ -3,7 +3,11 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+<<<<<<< HEAD
       <sourceFolder url="file://$MODULE_DIR$/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments" isTestSource="false" packagePrefix="ProblemSolving" />
+=======
+      <sourceFolder url="file://$MODULE_DIR$/BasicSyntaxContionalStaments" isTestSource="false" packagePrefix="ProblemSolving" />
+>>>>>>> 0e95e02835b7613c7643b7a174f192e1a6817186
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
