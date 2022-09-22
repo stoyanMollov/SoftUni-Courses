@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="49c4a4a1-2bf6-4802-a749-2f3c247f1692" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/Java_September_2022/BasicSyntaxContionalStaments/BackIn30Minutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments/BackIn30Minutes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java_September_2022/BasicSyntaxContionalStaments/DivisibleBy3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/BasicSyntaxContionalStaments/DivisibleBy3.java" afterDir="false" />
@@ -31,6 +32,9 @@
       <change beforePath="$PROJECT_DIR$/Java_September_2022/MoreExersize/SortNumbers_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/MoreExersize/SortNumbers_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java_September_2022/MoreExersize/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_September_2022/05_BASIC_SYTAXYS_AND_CONDITIONS/MoreExersize/demo.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="f86acab1-d966-4ff3-89a3-5f2973852c51" name="Changes" comment="" />
+>>>>>>> 0e95e02835b7613c7643b7a174f192e1a6817186
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,11 +46,16 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="2F6fdnp2KElgUEkCMH3CeY0kTpF" />
+=======
+  <component name="ProjectId" id="2F2wpM6zi5ve3nHZz7B0iyrgaou" />
+>>>>>>> 0e95e02835b7613c7643b7a174f192e1a6817186
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -66,6 +75,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663817549576</updated>
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f86acab1-d966-4ff3-89a3-5f2973852c51" name="Changes" comment="" />
+      <created>1663703673240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663703673240</updated>
+>>>>>>> 0e95e02835b7613c7643b7a174f192e1a6817186
     </task>
     <servers />
   </component>
